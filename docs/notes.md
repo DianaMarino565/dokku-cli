@@ -42,3 +42,4 @@ Notes and usage details for dokku-cli.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
